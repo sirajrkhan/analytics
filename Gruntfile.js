@@ -1,7 +1,7 @@
 // Generated on 2015-01-05 using generator-angular 0.9.2
 'use strict';
 
-// # Globbing
+// # Globbing 
 // for performance reasons we're only matching one level down:
 // 'test/spec/{,*/}*.js'
 // use this if you want to recursively match all subfolders:
@@ -411,3 +411,6 @@ module.exports = function (grunt) {
     'build'
   ]);
 };
+
+
+//Version 1.0
