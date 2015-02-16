@@ -21,7 +21,7 @@ module.exports = function (grunt) {
     dist: 'dist'
   };
 
-  // Define the configuration for all the tasks
+  // Define the configuration for all tasks
   grunt.initConfig({
 
     // Project settings
